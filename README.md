@@ -8,12 +8,13 @@
  <img alt="Udemy" src="https://img.shields.io/badge/Udemy-%23EA5252.svg?&style=for-the-badge&logo=Udemy&logoColor=white"/>
 </p>
 
-
 ## 💻 Project
 This project corresponds a API developed in Node.js
 
 
-### Installation
+## Installation
+
+### Node Package Manager
 ```
 npm install
 ```
