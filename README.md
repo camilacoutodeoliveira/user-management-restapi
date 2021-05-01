@@ -8,7 +8,10 @@
  <img alt="Udemy" src="https://img.shields.io/badge/Udemy-%23EA5252.svg?&style=for-the-badge&logo=Udemy&logoColor=white"/>
 </p>
 
-This project was developed based on the Complete JavaScript Course with ♥ [HCode](https://hcode.com.br/)/[Udemy](https://www.udemy.com/course/javascript-curso-completo/)
+
+## 💻 Project
+This project corresponds a API developed in Node.js
+
 
 ### Installation
 ```
@@ -107,3 +110,6 @@ Example result:
     "_id":"vjwUihfiqbhPieF4"
 }
 ```
+
+## 🤝Thanks
+This project was developed based on the Complete JavaScript Course with ♥ [HCode](https://hcode.com.br/)/[Udemy](https://www.udemy.com/course/javascript-curso-completo/)
