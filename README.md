@@ -14,3 +14,11 @@ gerenciador de packgs
 npm install consign --save
 
 npm install body-parser --save
+
+nedb
+
+npm install nedb --save
+
+npm install express-validator --save
+
+npm i express-validator@5.3.1
